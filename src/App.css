@@ -1,0 +1,17 @@
+.title {
+    font-family: 'Kalam', cursive;
+    color: white;
+    font-size: 100px;
+    -webkit-text-stroke: 3px gray;
+}
+
+.text {
+    font-family: 'IBM Plex Mono', monospace;
+    color: white;
+}
+
+.title2{
+    font-family: 'Kalam', cursive;
+    color: black;
+    font-size: 25px;
+}
